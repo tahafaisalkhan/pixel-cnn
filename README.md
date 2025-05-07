@@ -1,8 +1,6 @@
 # 🧠 PixelCNN on MNIST
 A PyTorch implementation of the **PixelCNN** model for generative image modeling on the **MNIST** dataset. This project demonstrates how PixelCNN learns pixel-wise dependencies to generate realistic handwritten digits.
 
-![PixelCNN Output](./assets/output.png)
-
 ---
 
 ## 📌 Table of Contents
