@@ -59,21 +59,19 @@ Total trainable parameters: **~492,673**
 - Epochs: `30`
 
 ### 📉 Loss Curves
-
-![Loss Curve](./assets/asd.png)
+![output](https://github.com/user-attachments/assets/0423cef2-7abe-4a4e-8d74-96b5af2211f4)
 
 ---
 
 ## 🎨 Results
 
-### Generated Samples After 10 Epochs
-![Generated at 10 Epochs](./assets/asddas.png)
-
 ### Generated Samples After 20 Epochs
-![Generated at 20 Epochs](./assets/asddas.png)
+![asddas](https://github.com/user-attachments/assets/67c084c1-eea9-4d7d-9ef4-bac99a0103ae)
+
 
 ### Generated Samples After 30 Epochs
-![Generated at 30 Epochs](./assets/output.png)
+![asd](https://github.com/user-attachments/assets/ed31dd3b-fd23-46ae-909d-be147c07dff7)
+
 
 > With more epochs, the digits become sharper and more recognizable.
 
