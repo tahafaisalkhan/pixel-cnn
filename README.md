@@ -12,8 +12,6 @@ A PyTorch implementation of the **PixelCNN** model for generative image modeling
 - [Model Architecture](#model-architecture)
 - [Training Details](#training-details)
 - [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Acknowledgements](#acknowledgements)
 
 ---
